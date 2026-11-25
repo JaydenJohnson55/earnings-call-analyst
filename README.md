@@ -13,8 +13,8 @@ It outputs a text summary, JSON, or a one-page HTML dashboard.
 ## Run it
 
 ```bash
-python cli.py samples/northwind_q3_2026.txt --compare samples/northwind_q2_2026.txt --html report.html
-python cli.py samples/northwind_q3_2026.txt --json
+python cli.py northwind_q3_2026.txt --compare northwind_q2_2026.txt --html report.html
+python cli.py northwind_q3_2026.txt --json
 python -m pytest -q      # 13 tests
 ```
 
@@ -36,6 +36,6 @@ The samples are a **fictional company** (Northwind Outdoor Co.) written for this
 | `report.py` | HTML dashboard |
 | `cli.py` | Command line |
 | `test_analyst.py` | 13 pytest tests |
-| `samples/` | Two quarters of a fictional company's calls |
+| `northwind_q2_2026.txt`, `northwind_q3_2026.txt` | Two quarters of a fictional company's calls |
 
 Built with AI help (Claude) for writing and debugging the code.

@@ -1,0 +1,24 @@
+Company: Northwind Outdoor Co. (fictional sample)
+Quarter: Q3 2026
+
+Operator: Good afternoon and welcome to the Northwind Outdoor third quarter 2026 earnings call.
+
+CEO: Thanks for joining. This was a record quarter and we are confident in our momentum. Revenue grew 11% to $468 million, well ahead of our plan, and we exceeded our margin target. Direct-to-consumer sales accelerated again, and our new trail running line beat expectations. Wholesale orders improved as partners cleared older inventory.
+
+CFO: Thank you. Gross margin expanded 120 basis points to 42.4%. Operating income was $51 million and diluted EPS was $0.69. Inventory is back in line, down 3% from last quarter. Because of this strong performance, we are raising our full-year revenue guidance to between $1.78 billion and $1.81 billion. We now expect gross margin of approximately 42%. For next quarter, we expect revenue growth of 8% to 10%.
+
+Question-and-Answer Session
+
+Analyst (Priya Shah, Sample Capital): Congratulations on the quarter. What's driving the margin improvement, and is it sustainable?
+
+CFO: It's mostly lower freight costs and fewer promotions. We think a good part of it is sustainable, although wage inflation in our distribution centers is a cost we are watching.
+
+Analyst (Jordan Lee, Example Securities): You raised guidance. What could take you below the new range?
+
+CEO: The main risk would be a slowdown in consumer demand during the holiday season. Currency is also a small headwind. But our order book is strong and we feel good about the range.
+
+Analyst (Marco Ruiz, Placeholder Partners): Any update on competition in trail running?
+
+CEO: Competition is real, but our product reviews and sell-through have been strong, and we are gaining share.
+
+Operator: That concludes today's call.

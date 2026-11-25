@@ -1,9 +1,9 @@
 """Command line entry point.
 
 Examples:
-  python cli.py samples/northwind_q2_2026.txt
-  python cli.py samples/northwind_q3_2026.txt --compare samples/northwind_q2_2026.txt --html report.html
-  python cli.py samples/northwind_q3_2026.txt --ai      (needs ANTHROPIC_API_KEY)
+  python cli.py northwind_q2_2026.txt
+  python cli.py northwind_q3_2026.txt --compare northwind_q2_2026.txt --html report.html
+  python cli.py northwind_q3_2026.txt --ai      (needs ANTHROPIC_API_KEY)
 """
 
 import argparse

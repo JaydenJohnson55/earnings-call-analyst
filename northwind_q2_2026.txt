@@ -1,0 +1,24 @@
+Company: Northwind Outdoor Co. (fictional sample)
+Quarter: Q2 2026
+
+Operator: Good afternoon and welcome to the Northwind Outdoor second quarter 2026 earnings call.
+
+CEO: Thanks everyone for joining. This was a solid quarter. Revenue grew 6% to $412 million, and gross margin improved 80 basis points to 41.2%. Our direct-to-consumer channel had record sales, and we gained share in footwear. That said, wholesale demand was softer than we planned, and some retail partners are being cautious with orders.
+
+CFO: Thank you. Operating income was $38 million, up from $34 million last year. Diluted EPS was $0.52. Inventory rose 9%, which is higher than we would like, mostly because of freight delays that pushed spring product into the summer. We expect inventory to normalize by the end of the year. For the full year, we are maintaining our guidance of revenue between $1.70 billion and $1.75 billion. We expect gross margin of approximately 41%. Currency could be a headwind of roughly 1% to reported sales.
+
+Question-and-Answer Session
+
+Analyst (Jordan Lee, Example Securities): Can you talk about the wholesale softness? Is that a demand problem or just timing?
+
+CEO: We believe it is mostly timing. Some partners may be holding less inventory because of macro uncertainty and weaker consumer spending in certain regions. We are cautious, but our sell-through data is still healthy.
+
+Analyst (Priya Shah, Sample Capital): On margins, how much pressure are you seeing from promotions?
+
+CFO: There is some pricing pressure in the market and competitors have been more promotional. We could see a little margin pressure in the back half, but we expect cost savings to offset most of it.
+
+Analyst (Jordan Lee, Example Securities): Any update on tariffs?
+
+CFO: Tariffs remain a risk. If new tariffs go into effect, we might need to adjust pricing. It is too early to say how large the impact could be.
+
+Operator: That concludes today's call.

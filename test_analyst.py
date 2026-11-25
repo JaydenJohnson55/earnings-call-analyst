@@ -2,8 +2,8 @@ from analyst import (analyze, compare, find_guidance, hedge_rate,
                      parse_transcript, score_sentiment)
 from report import render
 
-Q2 = open("samples/northwind_q2_2026.txt", encoding="utf-8").read()
-Q3 = open("samples/northwind_q3_2026.txt", encoding="utf-8").read()
+Q2 = open("northwind_q2_2026.txt", encoding="utf-8").read()
+Q3 = open("northwind_q3_2026.txt", encoding="utf-8").read()
 
 
 def test_parse_header_and_sections():
